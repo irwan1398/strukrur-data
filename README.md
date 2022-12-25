@@ -1,0 +1,2 @@
+# strukrur-data
+tugas tersruktur
